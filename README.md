@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Beauty Akter
-- 🌱 I’m currently learning App Development in Android Studio .
+- 🌱 I’m currently learning Software Quality Assurance .
 - 📫 How to reach me beauty.akter.045@gmail.com
 
 <!---
